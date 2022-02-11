@@ -10,7 +10,7 @@
       <cellProportion verticalScreen="true">0.77</cellProportion>
       <autoLayout verticalScreen="true">2 0</autoLayout>
       <autoLayoutSelectedZoom>1.02</autoLayoutSelectedZoom>
-      <imageSource>image</imageSource>
+      <imageSource>thumbnail</imageSource>
       <margin>0.002 0.004</margin>
       <showVideoAtDelay>800</showVideoAtDelay>
       <zIndex>13</zIndex>
